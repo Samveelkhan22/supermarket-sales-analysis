@@ -28,5 +28,3 @@ This project performs an in-depth Exploratory Data Analysis (EDA) on a supermark
 ## 🤝 Contributing
 - Contributions are welcome! Please fork the repository and submit a pull request with detailed explanations of your changes.
 - **Jupyter Notebook** for interactive analysis
-
-## 📂 Repository Structure
